@@ -1,0 +1,47 @@
+#pdf{
+  float:right;
+}
+#name{
+  float: left;
+  font-style: italic;
+}
+hr.line{
+  border-top: 1px solid black;
+}
+#topics{
+  width:20%;
+  height:100px;
+  float:left;
+  padding: 12px;
+}
+#top{
+  width:35%;
+  height:150px;
+  float:left;
+}
+#topic{
+  width:35%;
+  height:50px;
+  float:left;
+}
+#tec{
+  width:20%;
+  height:50px;
+  float:left;
+}
+#right{
+  width:20%;
+  height:100px;
+  float:left;
+
+}
+#t{
+  width:35%;
+  height:100px;
+  float:left;
+}
+#pro{
+  width:20%;
+  height:150px;
+  float:left;
+}
